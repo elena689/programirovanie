@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\c#\Lesson1_HW\bin\Debug\net6.0\Lesson1_HW.exe
+C:\Users\Elena\Desktop\c#\Lesson1_HW\bin\Debug\net6.0\Lesson1_HW.deps.json
+C:\Users\Elena\Desktop\c#\Lesson1_HW\bin\Debug\net6.0\Lesson1_HW.runtimeconfig.json
+C:\Users\Elena\Desktop\c#\Lesson1_HW\bin\Debug\net6.0\Lesson1_HW.dll
+C:\Users\Elena\Desktop\c#\Lesson1_HW\bin\Debug\net6.0\Lesson1_HW.pdb
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.AssemblyInfo.cs
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.dll
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\refint\Lesson1_HW.dll
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.pdb
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\Lesson1_HW.genruntimeconfig.cache
+C:\Users\Elena\Desktop\c#\Lesson1_HW\obj\Debug\net6.0\ref\Lesson1_HW.dll
