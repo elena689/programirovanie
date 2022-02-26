@@ -1,11 +1,11 @@
-﻿int FFS = 1;
+﻿//Решение задачи про друзей и собаку
+
+int FFS = 1;
 int SFS = 2;
 int dogSpeed = 5;
 int distance = 10000;
 int time = 0;
 int friend = 2;
-//Console.SetCursorPosition(xb, yb);
-//Console.WriteLine("+");
 
 int count = 0;
 
