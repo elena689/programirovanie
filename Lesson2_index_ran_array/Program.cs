@@ -24,7 +24,7 @@ int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
     int index=0;
-    int position = -1;
+    int position = -1; //если будет указано число не встречающееся в массиве, то будет возвращено значение -1
     while (index<count)
     {
         if(collection[index]==find)
